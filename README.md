@@ -1,0 +1,1 @@
+This Python project takes sea level data from 1880 until today, on a CSV format to make a scatter plot of the data, since this data could be applied linear regression to make predictions this is made to make the best-fit line in red above the scatter plot, to latter make another line plot in green whit the projections from 2000 onwards.
